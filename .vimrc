@@ -112,6 +112,7 @@ Bundle 'altercation/vim-colors-solarized'
 """""""""""""""""""""""""""""""""""""""
 "VIM user interface
 """""""""""""""""""""""""""""""""""""""
+"Set Number
 set number
 
 " use chinese help
